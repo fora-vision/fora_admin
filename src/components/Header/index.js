@@ -8,7 +8,7 @@ import { P, PBold, PSmall } from "../typographic";
 import store from "../../store";
 import i18n from "../../i18n";
 
-import logoImage from "./logo.png";
+import logoImage from "./logo.jpg";
 import * as S from "./styled";
 
 import { ChevronDown } from "@gravity-ui/icons";
